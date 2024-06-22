@@ -1,0 +1,12 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "description": "npm demo package for myself test, a randomInt function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["npm-demo","npm-test","npm test project","randomInt","getRandomInt"],
+  "author": "laoyao166",
+  "license": "ISC"
+}
